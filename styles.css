@@ -1,0 +1,35 @@
+/* Font and global styles */
+body {
+  font-family: Manrope, "Noto Sans", sans-serif;
+}
+
+/* Table column hiding at specific container widths */
+@container (max-width: 120px) {
+  .table-87fb8b55-d803-4ae2-abf7-6c65052955ba-column-120 {
+    display: none;
+  }
+}
+
+@container (max-width: 240px) {
+  .table-87fb8b55-d803-4ae2-abf7-6c65052955ba-column-240 {
+    display: none;
+  }
+}
+
+@container (max-width: 360px) {
+  .table-87fb8b55-d803-4ae2-abf7-6c65052955ba-column-360 {
+    display: none;
+  }
+}
+
+@container (max-width: 480px) {
+  .table-87fb8b55-d803-4ae2-abf7-6c65052955ba-column-480 {
+    display: none;
+  }
+}
+
+@container (max-width: 600px) {
+  .table-87fb8b55-d803-4ae2-abf7-6c65052955ba-column-600 {
+    display: none;
+  }
+}
